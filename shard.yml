@@ -1,0 +1,7 @@
+name: serial_com_port
+version: 3.0.0
+
+authors:
+  - Omid Athari <omidathari@yahoo.com>
+
+crystal: 1.0.0
